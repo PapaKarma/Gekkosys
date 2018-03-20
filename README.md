@@ -1,7 +1,7 @@
 # Gekkosys
 
 
-## git clone git://github.com/PapaKarma/gekkosys.git
+## git clone git://github.com/PapaKarma/Gekkosys.git
 ## cd gekko
 ## npm install --only=production
 ## npm install nconvnetjs zero-fill stats-lite numbro mathjs cluster lodash gauss async talib tulind
