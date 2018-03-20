@@ -2,15 +2,12 @@
 
 
 ## git clone git://github.com/PapaKarma/Gekkosys.git
-## cd gekko
+
 ## npm install --only=production
+
 ## npm install nconvnetjs zero-fill stats-lite numbro mathjs cluster lodash gauss async talib tulind
 
 See [the documentation website](https://gekko.wizb.it/docs/introduction/about_gekko.html).
-
-
-
-npm install convnetjs zero-fill stats-lite numbro mathjs cluster lodash gauss async talib tulind
 
 ## 
 
