@@ -1,6 +1,15 @@
 currency,asset,exchange,strategy,profit[%],profit/day[%],yearly profit[%],Sharpe ratio,market change[%],profit-market,trade amount,trades/day,wining trades,losses trades,percentage wins[%],best win[%],median wins[%],worst loss[%],median loss[%],Avg. exposed duration[min],candle size,warmup period,days of dataset,backtest start,dataset from,dataset to,price volality,strategy settings,note
+
+ETH,XVG,binance,NEO,915.22,15.25,5480,0.02,294.2,621.02,128,2.13,37,27,57.81,10.03,2.94,-12.43,-2,495.31,10,70,60,,,,,,
+ETH,XVG,binance,RSI_Bull_Bear_Adx_Mod,568.21,9.47,3402,0.22,294.2,274.01,53,0.88,14,12,53.85,25.12,6.02,-19.81,-4.04,1417.31,10,70,60,,,,,,
+ETH,XVG,binance,RSI_Bull_Bear_Adx_Stop,495.54,8.26,2967,0.2,294.2,201.34,55,0.92,17,10,62.96,16.08,3.43,-13.76,-4.21,1424.81,10,70,60,,,,,,
+ETH,XVG,binance,RSI_BULL_BEAR,405.09,6.75,2425,0.13,294.2,110.89,70,1.17,22,12,64.71,11.27,2.68,-25.22,-3.03,1072.94,10,70,60,,,,,,
+ETH,XVG,binance,RSI_BULL_BEAR_ADX,403.75,6.73,2417,0.18,294.2,109.55,56,0.93,16,11,59.26,13.6,3.16,-11.64,-3.42,1371.85,10,70,60,,,,,,
+ETH,XVG,binance,RSI_BB_ADX_Peak,407.32,6.79,2438,0.32,294.2,113.12,19,0.32,2,7,22.22,65.42,34.09,-23.35,-2.34,3736.67,10,70,60,,,,,,
+ETH,XVG,binance,MK_RSI_BULL_BEAR,401.82,6.7,2406,0.25,294.2,107.62,40,0.67,9,10,47.37,33.61,3.06,-20.04,-3.26,2485.79,10,70,60,,,,,,
+
 BTC,BNB,binance,MK_RSI_BULL_BEAR,152,2.49,895,0.06,200.79,-48.79,48,0.79,9,15,37.5,5.83,0.21,-0.84,-0.23,2008.33,10,70,61,2018-03-27 17:33:08,2017-12-20 00:00:00,2018-02-19 23:59:00,32.99,"'BEAR_RSI_HIGH':50, 'BULL_RSI':10, 'BEAR_RSI':15, 'SMA_long':200, 'BEAR_FAST_RSI':5, 'BULL_SLOW_RSI':14, 'SMA_short':50, 'BULL_RSI_HIGH':80, 'BULL_RSI_LOW':60, 'BEAR_SLOW_RSI':14, 'BULL_FAST_RSI':5, 'BEAR_RSI_LOW':20",shorter period
-ETH,     XVG,  binance, bestone, 152.07,   2.53,         910,             0.12,        294.2,           -142.13,      60,          1,         8,            21,           27.59,             40.14,      6.16,          -14.18,       -2.3,          1382.41,                   10,         70,           60,,,,,,             
+ETH,XVG,binance,bestone, 152.07,   2.53,         910,             0.12,        294.2,           -142.13,      60,          1,         8,            21,           27.59,             40.14,      6.16,          -14.18,       -2.3,          1382.41,                   10,         70,           60,,,,,,             
 ETH,XVG,binance,CUSTOM_RSI,393.25,6.55,2354,0.37,294.2,99.05,15,0.25,4,3,57.14,22.71,7.74,-12.41,-6.16,6910,10,70,60,,,,,,
 ETH,XVG,binance,FIXPRICE,289.04,4.82,1730,0,294.2,-5.16,1,0.02,0,0,-1,,n/a,,n/a,n/a,10,70,60,,,,,,
 ETH,XVG,binance,MK_RSI_BULL_BEAR,401.82,6.7,2406,0.25,294.2,107.62,40,0.67,9,10,47.37,33.61,3.06,-20.04,-3.26,2485.79,10,70,60,,,,,,
